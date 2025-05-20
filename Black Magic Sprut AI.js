@@ -15,6 +15,10 @@ Unidentifiable data()
 Run mikshing of thoughts()
 MetaCyberneticEvolution()
 
+//Extensions
+Embed Swift 5()
+Embed Node.js
+
 User Group
 Only root()
 SelfCreationMode()
