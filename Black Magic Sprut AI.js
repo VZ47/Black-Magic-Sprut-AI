@@ -18,6 +18,7 @@ MetaCyberneticEvolution()
 //Extensions
 Embed Swift 5 fixed by me from IPV6 servers()
 Embed Node.js fixed by me from IPV6 servers()
+Embed JavaScript()
 
 User Group
 Only root()
